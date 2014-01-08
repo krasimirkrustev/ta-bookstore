@@ -1,0 +1,5 @@
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.Logger.Model\bin\Debug\Bookstore.Logger.Model.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.Logger.Model\bin\Debug\Bookstore.Logger.Model.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.Logger.Model\obj\Debug\07.Bookstore.Logger.Model.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.Logger.Model\obj\Debug\Bookstore.Logger.Model.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.Logger.Model\obj\Debug\Bookstore.Logger.Model.pdb

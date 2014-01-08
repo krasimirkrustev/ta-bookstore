@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<result-set>
+	<review>
+		<date>22-яну-2012</date>
+		<content>Low-quality, don’t read this</content>
+		<book>
+			<title>SQL Tutorial</title>
+			<authors>John Shirrell</authors>
+			<url>http://www.w3schools.com/sql/</url>
+		</book>
+	</review>
+	<review>
+		<date>25-юли-2013</date>
+		<content>Better learn XML at W3 Schools: http://www.w3schools.com/xml/</content>
+		<book>
+			<title>XML: A Deep Understanding</title>
+			<authors>John Shirrell</authors>
+			<url>http://www.xmlbook.info</url>
+		</book>
+	</review>
+	<review>
+		<date>25-юли-2013</date>
+		<content>Easy to understand tutorial. Thank you W3 Schools!</content>
+		<book>
+			<title>SQL Tutorial</title>
+			<authors>John Shirrell</authors>
+			<url>http://www.w3schools.com/sql/</url>
+		</book>
+	</review>
+	<review>
+		<date>25-юли-2013</date>
+		<content>Outdated. Written in 1999, useless today…</content>
+		<book>
+			<title>XML: A Deep Understanding</title>
+			<authors>John Shirrell</authors>
+			<url>http://www.xmlbook.info</url>
+		</book>
+	</review>
+</result-set>

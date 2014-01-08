@@ -1,0 +1,10 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\Bookstore.SimpleSearch.exe.config
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\obj\Debug\Bookstore.SimpleSearch.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\Bookstore.SimpleSearch.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\Bookstore.SimpleSearch.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\EntityFramework.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\Bookstore.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\bin\Debug\EntityFramework.xml
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\obj\Debug\Bookstore.SimpleSearch.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleSearch\obj\Debug\Bookstore.SimpleSearch.pdb

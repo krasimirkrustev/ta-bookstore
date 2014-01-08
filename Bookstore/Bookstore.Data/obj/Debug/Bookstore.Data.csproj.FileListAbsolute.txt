@@ -1,0 +1,8 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.dll.config
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\bin\Debug\Bookstore.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\bin\Debug\EntityFramework.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\bin\Debug\EntityFramework.xml
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Data\obj\Debug\Bookstore.Data.pdb

@@ -1,0 +1,20 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.ComplexImporter.exe.config
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.ComplexImporter.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.ComplexImporter.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\EntityFramework.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\bin\Debug\EntityFramework.xml
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\obj\Debug\04.Bookstore.ComplexImporter.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\obj\Debug\Bookstore.ComplexImporter.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.ComplexImporter\obj\Debug\Bookstore.ComplexImporter.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.ComplexImporter.exe.config
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.ComplexImporter.exe
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.ComplexImporter.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.Data.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\EntityFramework.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\Bookstore.Data.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\bin\Debug\EntityFramework.xml
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\obj\Debug\04.Bookstore.ComplexImporter.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\obj\Debug\Bookstore.ComplexImporter.exe
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.ComplexImporter\obj\Debug\Bookstore.ComplexImporter.pdb

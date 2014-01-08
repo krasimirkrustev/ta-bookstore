@@ -1,0 +1,28 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.SearchForReviews.exe.config
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.SearchForReviews.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.SearchForReviews.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Model.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\EntityFramework.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Model.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\bin\Debug\EntityFramework.xml
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\obj\Debug\06.Bookstore.SearchForReviews.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\obj\Debug\Bookstore.SearchForReviews.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SearchForReviews\obj\Debug\Bookstore.SearchForReviews.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.SearchForReviews.exe.config
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.SearchForReviews.exe
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.SearchForReviews.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Data.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Data.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Model.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\EntityFramework.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Data.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Data.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\Bookstore.Logger.Model.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\bin\Debug\EntityFramework.xml
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\obj\Debug\06.Bookstore.SearchForReviews.csprojResolveAssemblyReference.cache
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\obj\Debug\Bookstore.SearchForReviews.exe
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SearchForReviews\obj\Debug\Bookstore.SearchForReviews.pdb

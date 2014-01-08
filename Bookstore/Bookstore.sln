@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Bookstore.SimpleImporter", "Bookstore.SimpleImporter\03.Bookstore.SimpleImporter.csproj", "{3B2AF4C4-BC94-4450-A75B-39BD70C2B860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-02.Bookstore.Data", "Bookstore.Data\01-02.Bookstore.Data.csproj", "{4238B2D9-15E2-42A2-94C8-F9CD758D7496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Bookstore.ComplexImporter", "Bookstore.ComplexImporter\04.Bookstore.ComplexImporter.csproj", "{2522FA6D-94EE-488D-8124-EB3B5AC0F3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Bookstore.SimpleSearch", "Bookstore.SimpleSearch\05.Bookstore.SimpleSearch.csproj", "{23C0D3B4-A0F0-4DBC-8CCA-3A3D82D79C66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Bookstore.SearchForReviews", "Bookstore.SearchForReviews\06.Bookstore.SearchForReviews.csproj", "{5EBA88AE-F8B9-4553-9164-0E60A1F5D683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Bookstore.Logger.Model", "Bookstore.Logger.Model\07.Bookstore.Logger.Model.csproj", "{91FDEA22-D46D-4041-8D38-028B35DB3FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Bookstore.Logger.Data", "Bookstore.Logger.Data\07.Bookstore.Logger.Data.csproj", "{91A35411-ABC2-44CB-B729-2F44207C57F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B2AF4C4-BC94-4450-A75B-39BD70C2B860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2AF4C4-BC94-4450-A75B-39BD70C2B860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2AF4C4-BC94-4450-A75B-39BD70C2B860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2AF4C4-BC94-4450-A75B-39BD70C2B860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4238B2D9-15E2-42A2-94C8-F9CD758D7496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4238B2D9-15E2-42A2-94C8-F9CD758D7496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4238B2D9-15E2-42A2-94C8-F9CD758D7496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4238B2D9-15E2-42A2-94C8-F9CD758D7496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2522FA6D-94EE-488D-8124-EB3B5AC0F3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2522FA6D-94EE-488D-8124-EB3B5AC0F3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2522FA6D-94EE-488D-8124-EB3B5AC0F3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2522FA6D-94EE-488D-8124-EB3B5AC0F3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C0D3B4-A0F0-4DBC-8CCA-3A3D82D79C66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C0D3B4-A0F0-4DBC-8CCA-3A3D82D79C66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C0D3B4-A0F0-4DBC-8CCA-3A3D82D79C66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C0D3B4-A0F0-4DBC-8CCA-3A3D82D79C66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBA88AE-F8B9-4553-9164-0E60A1F5D683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBA88AE-F8B9-4553-9164-0E60A1F5D683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBA88AE-F8B9-4553-9164-0E60A1F5D683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBA88AE-F8B9-4553-9164-0E60A1F5D683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91FDEA22-D46D-4041-8D38-028B35DB3FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FDEA22-D46D-4041-8D38-028B35DB3FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FDEA22-D46D-4041-8D38-028B35DB3FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FDEA22-D46D-4041-8D38-028B35DB3FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A35411-ABC2-44CB-B729-2F44207C57F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A35411-ABC2-44CB-B729-2F44207C57F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A35411-ABC2-44CB-B729-2F44207C57F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A35411-ABC2-44CB-B729-2F44207C57F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

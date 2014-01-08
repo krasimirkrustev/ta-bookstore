@@ -1,0 +1,23 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe.config
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\EntityFramework.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\EntityFramework.xml
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\03.Bookstore.SimpleImporter.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.pdb
+E:\Work\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe.config
+E:\Work\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.exe
+E:\Work\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe.config
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.exe
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.Data.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\EntityFramework.dll
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.Data.pdb
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\bin\Debug\EntityFramework.xml
+D:\Working\Telerik Academy Projects\Bookstore\Bookstore.SimpleImporter\obj\Debug\03.Bookstore.SimpleImporter.csprojResolveAssemblyReference.cache

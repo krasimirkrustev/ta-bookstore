@@ -1,0 +1,10 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe.config
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.SimpleImporter.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.exe
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\obj\Debug\Bookstore.SimpleImporter.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.Data.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\EntityFramework.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\Bookstore.Data.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.SimpleImporter\bin\Debug\EntityFramework.xml

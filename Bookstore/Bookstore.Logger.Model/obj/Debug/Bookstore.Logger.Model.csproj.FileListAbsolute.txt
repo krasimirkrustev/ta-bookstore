@@ -1,0 +1,5 @@
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Logger.Model\bin\Debug\Bookstore.Logger.Model.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Logger.Model\bin\Debug\Bookstore.Logger.Model.pdb
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Logger.Model\obj\Debug\Bookstore.Logger.Model.csprojResolveAssemblyReference.cache
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Logger.Model\obj\Debug\Bookstore.Logger.Model.dll
+C:\Users\Krasimir\Desktop\DATABASE EXAM\Bookstore\Bookstore.Logger.Model\obj\Debug\Bookstore.Logger.Model.pdb
